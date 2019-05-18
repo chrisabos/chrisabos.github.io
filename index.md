@@ -1,10 +1,21 @@
-## Welcome to GitHub Pages
+## Life from Simple Chemicals
 
-You can use the [editor on GitHub](https://github.com/chrisabos/chrisabos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Abstract
+
+In the study of Earth History there are many topics to be discussed. One semester is nowhere near long enough to truly understand all of the processes completely that have developed the wonderful planet we call Earth. In this article will be a detailed look into what we know about where life began on Earth. Specifically, when our planet went from a place full of chemicals, into a place that is habitated by numerous life forms.
+
+
+
+
+
+
+
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
