@@ -39,6 +39,8 @@ The first cellular organisms that are believed to have formed are Prokaryotes. T
 
 ## Continued Science
 
+<img align="right" width="300" height="300" style="margin: 7px" src="https://pbs.twimg.com/profile_images/674396782630014976/qNGmQlRC_400x400.png">
+
 Although much of the scientific community agrees on the information provided, there is still much to determine. For example, what is the link between amino acids and cellular organisms? Some questions about the origin of life remain a mystery, but we do know some things for sure. Mainly that with the early Earth environment, Miller and Urey demonstrated that the building blocks for life, amino acids, are able to form without help from organic structures. Furthermore, around the same time period we what we consider to be the earliest forms of life: Prokaryotes. Despite our gap of knowledge, we can conclude certain things about how are planet gained a population.
 
 ### Article By:
