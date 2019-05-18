@@ -33,7 +33,7 @@ Although this formation of amino acids may sound trivial, it shows us that given
 
 ## Prokaryote
 
-<img align="left" style="margin: 7px" src="http://learnwise.co/wp-content/uploads/2018/09/labeled-diagram-of-prokaryotic-cell-luxury-learn-about-prokaryotic-cells-prokaryotes-bacteria-and-archaeans.jpg">
+<img align="left" height="200" style="margin: 7px" src="http://learnwise.co/wp-content/uploads/2018/09/labeled-diagram-of-prokaryotic-cell-luxury-learn-about-prokaryotic-cells-prokaryotes-bacteria-and-archaeans.jpg">
 
 The first cellular organisms that are believed to have formed are Prokaryotes. They are single cellular organisms and lack many of the complexities that we find in our cells [3]. Because of their basic composition and the fact that they are found in the oldest rocks on the planets leads us to conclude that they are of the oldest and earliest life forms on the planet. These organisms are believed to be the foundation on which evolved organisms came from such as plants and animals. They are also responsible for initially oxygenating the environment which is extremely helpful for us today. Although they may be small and simple, they have had huge impacts on the planet both in the function they performed and what they evolved to become.
 
