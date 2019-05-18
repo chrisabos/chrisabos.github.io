@@ -1,6 +1,6 @@
 ## Life from Simple Chemicals
 
-<img height="300" src="https://ak3.picdn.net/shutterstock/videos/4917143/thumb/1.jpg">
+<img src="https://ak3.picdn.net/shutterstock/videos/4917143/thumb/1.jpg">
 
 ### Abstract
 
