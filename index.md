@@ -19,7 +19,13 @@ So despite this inhospitable environment, how would life have begun?
 
 ### Miller-Urey Experiment
 
+<img align="left" width="200" height="200" src="http://aviewfromtheright.com/wp-content/uploads/2016/07/Miller-y-Urey.jpg">
 
+Stanley L. Miller at the time of this experiment wanted to understand where life could have come from given the early atmosphere of the Earth. Specifically, he wanted to know if complicated molecular structures like amino acids could have come from simple inorganic chemicals. Harold Urey, his professor at the time did not think that this would be worth pursuing as this field of chemistry is largely unknown. Miller, after much persuasion of Urey, continued with his experiment.
+
+<img align="right" width="200" height="200" src="https://ib.bioninja.com.au/_Media/miller-urey_med.jpeg">
+
+The experiment was remarkably simple. It involved a couple of chemical chambers to hold water and precipitation and it was sealed off from the outside environment. The chambers will filled up with a certain level of water and the rest of the chamber will filled with the chemicals methane, ammonia, and hydrogen. There was a small tank near the bottom to hold most of the water that was constantly supplied with heat. This heat acted as the heat from the Earth and helped produce precipitation. The precipitation would then travel into a larger tank that acted as the atmosphere. This larger tank contained two electrodes that would spark to simulated electrical storms. Then a small cooling pipe below the tank to induce condensation. The entire system modeled the water cycle of the early Earth.
 
 
 
