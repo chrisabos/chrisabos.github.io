@@ -1,19 +1,30 @@
 ## Life from Simple Chemicals
 
-![Image](https://physics.aps.org/assets/69c1adfa-4587-4e3d-9ffd-a503e6c538a1/e43_1_thumb.png)
+![Image](https://ak3.picdn.net/shutterstock/videos/4917143/thumb/1.jpg)
 
 ### Abstract
 
 In the study of Earth History there are many topics to be discussed. One semester is nowhere near long enough to truly understand all of the processes completely that have developed the wonderful planet we call Earth. In this article will be a detailed look into what we know about where life began on Earth. Specifically, when our planet went from a place full of chemicals, into a place that is habitated by numerous life forms.
 
 
+### Earth Before Life
+
+Earth has had an extremely violent history. When the Earth was first forming it was an extremely violent place. The entire Earth was molten and experienced many impacts from other objects in space. These objects added to both the heat and the size of the planet. As time continued the Earth began to cool naturally and form a crust over the surface. Eventually, once the planet cooled enough, water began to accumulate on the surface to create vast oceans. Despite Earth's still violent nature, this is where life is believed to have begun.
+
+The atmosphere at this time would have been completely different from the atmosphere that we are capabled of breathing today. Because of the extremely volcanic nature of the Earth at the time, it is widely believed that the early atmosphere was mainly consisting of cobon dioxide, nitrogen, hydrogen sulfide, methane, ammonia, and sulfur dioxide [1]. Notice that this list does not include oxigen and the levels of methan and sulfur in the atmosphere would make this place completely inhabitable by humans.
+
+So despite this inhospitable environment, how would life have begun?
+
+### Miller-Urey Experiment
 
 
 
 
 
 
+## References
 
+[1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3189768/
 
 
 
