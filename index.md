@@ -9,7 +9,7 @@ In the study of Earth History there are many topics to be discussed. One semeste
 
 ### Earth Before Life
 
-![Image](https://www.howitworksdaily.com/wp-content/uploads/2015/06/Molten_Planet_by_Cushendun.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+<img align="left" width="100" height="100" src="https://www.howitworksdaily.com/wp-content/uploads/2015/06/Molten_Planet_by_Cushendun.png">
 
 Earth has had an extremely violent history. When the Earth was first forming it was an extremely violent place. The entire Earth was molten and experienced many impacts from other objects in space. These objects added to both the heat and the size of the planet. As time continued the Earth began to cool naturally and form a crust over the surface. Eventually, once the planet cooled enough, water began to accumulate on the surface to create vast oceans. Despite Earth's still violent nature, this is where life is believed to have begun.
 
