@@ -27,12 +27,13 @@ Stanley L. Miller at the time of this experiment wanted to understand where life
 
 The experiment was remarkably simple. It involved a couple of chemical chambers to hold water and precipitation and it was sealed off from the outside environment. The chambers will filled up with a certain level of water and the rest of the chamber will filled with the chemicals methane, ammonia, and hydrogen. There was a small tank near the bottom to hold most of the water that was constantly supplied with heat. This heat acted as the heat from the Earth and helped produce precipitation. The precipitation would then travel into a larger tank that acted as the atmosphere. This larger tank contained two electrodes that would spark to simulated electrical storms. Then a small cooling pipe below the tank to induce condensation. The entire system modeled the water cycle of the early Earth.
 
-
-
+After a week of the simulation running, Miller took a sample from the tap and discovered five amino acids in the sample. These included glycine, a-alanine, b-alanine, aspartic acid, and a-aminobutyric acid [2].
 
 ## References
 
 [1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3189768/
+
+[2] https://abenteuer-universum.de/pdf/miller_1953.pdf
 
 
 
